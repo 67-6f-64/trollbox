@@ -7,6 +7,41 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		831241EC18F9A9AB000C65FB /* ChatMessage.m in Sources */ = {isa = PBXBuildFile; fileRef = 831241EB18F9A9AB000C65FB /* ChatMessage.m */; };
+		831241EF18F9BFB9000C65FB /* TickerData.m in Sources */ = {isa = PBXBuildFile; fileRef = 831241EE18F9BFB9000C65FB /* TickerData.m */; };
+		831241F518F9CC94000C65FB /* TickerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 831241F418F9CC94000C65FB /* TickerView.m */; };
+		831241FA18FA2905000C65FB /* GTMNSString+HTML.m in Sources */ = {isa = PBXBuildFile; fileRef = 831241F918FA2905000C65FB /* GTMNSString+HTML.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		8333718D18FCCA3F0032B8FA /* Icon-60.png in Resources */ = {isa = PBXBuildFile; fileRef = 8333717F18FCCA3F0032B8FA /* Icon-60.png */; };
+		8333718E18FCCA3F0032B8FA /* Icon-60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8333718018FCCA3F0032B8FA /* Icon-60@2x.png */; };
+		8333718F18FCCA3F0032B8FA /* Icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = 8333718118FCCA3F0032B8FA /* Icon-72.png */; };
+		8333719018FCCA3F0032B8FA /* Icon-72@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8333718218FCCA3F0032B8FA /* Icon-72@2x.png */; };
+		8333719118FCCA3F0032B8FA /* Icon-76.png in Resources */ = {isa = PBXBuildFile; fileRef = 8333718318FCCA3F0032B8FA /* Icon-76.png */; };
+		8333719218FCCA3F0032B8FA /* Icon-76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8333718418FCCA3F0032B8FA /* Icon-76@2x.png */; };
+		8333719318FCCA3F0032B8FA /* Icon-Small-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 8333718518FCCA3F0032B8FA /* Icon-Small-50.png */; };
+		8333719418FCCA3F0032B8FA /* Icon-Small-50@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8333718618FCCA3F0032B8FA /* Icon-Small-50@2x.png */; };
+		8333719518FCCA3F0032B8FA /* Icon-Small.png in Resources */ = {isa = PBXBuildFile; fileRef = 8333718718FCCA3F0032B8FA /* Icon-Small.png */; };
+		8333719618FCCA3F0032B8FA /* Icon-Small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8333718818FCCA3F0032B8FA /* Icon-Small@2x.png */; };
+		8333719718FCCA3F0032B8FA /* Icon-Spotlight-40.png in Resources */ = {isa = PBXBuildFile; fileRef = 8333718918FCCA3F0032B8FA /* Icon-Spotlight-40.png */; };
+		8333719818FCCA3F0032B8FA /* Icon-Spotlight-40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8333718A18FCCA3F0032B8FA /* Icon-Spotlight-40@2x.png */; };
+		8333719918FCCA3F0032B8FA /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 8333718B18FCCA3F0032B8FA /* Icon.png */; };
+		8333719A18FCCA3F0032B8FA /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8333718C18FCCA3F0032B8FA /* Icon@2x.png */; };
+		8333719D18FCCB060032B8FA /* launch-960h.png in Resources */ = {isa = PBXBuildFile; fileRef = 8333719B18FCCB060032B8FA /* launch-960h.png */; };
+		8333719E18FCCB060032B8FA /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8333719C18FCCB060032B8FA /* Default-568h@2x.png */; };
+		833371A018FCCBFC0032B8FA /* chicken_white.png in Resources */ = {isa = PBXBuildFile; fileRef = 8333719F18FCCBFC0032B8FA /* chicken_white.png */; };
+		833371A218FCCDF90032B8FA /* Default-568h.png in Resources */ = {isa = PBXBuildFile; fileRef = 833371A118FCCDF90032B8FA /* Default-568h.png */; };
+		8374516918F9A62A00E3F8A1 /* libicucore.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 8374516818F9A62A00E3F8A1 /* libicucore.dylib */; };
+		8374516B18F9A62F00E3F8A1 /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8374516A18F9A62F00E3F8A1 /* CFNetwork.framework */; };
+		8374516D18F9A63400E3F8A1 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8374516C18F9A63300E3F8A1 /* Security.framework */; };
+		83BD079718FCC97B00573A2F /* trollbox_logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 83BD079618FCC97B00573A2F /* trollbox_logo.png */; };
+		83C081BE19022A390025226A /* checkmark.png in Resources */ = {isa = PBXBuildFile; fileRef = 83C081BD19022A390025226A /* checkmark.png */; };
+		83C081C019022DEB0025226A /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 83C081BF19022DEB0025226A /* Settings.bundle */; };
+		83C081C2190232980025226A /* checkmark_white.png in Resources */ = {isa = PBXBuildFile; fileRef = 83C081C1190232980025226A /* checkmark_white.png */; };
+		83C081CC19025F3C0025226A /* flag_china.png in Resources */ = {isa = PBXBuildFile; fileRef = 83C081C919025F3C0025226A /* flag_china.png */; };
+		83C081CD19025F3C0025226A /* flag_english.png in Resources */ = {isa = PBXBuildFile; fileRef = 83C081CA19025F3C0025226A /* flag_english.png */; };
+		83C081CE19025F3C0025226A /* flag_russia.png in Resources */ = {isa = PBXBuildFile; fileRef = 83C081CB19025F3C0025226A /* flag_russia.png */; };
+		83C081D01902D25C0025226A /* button_bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 83C081CF1902D25C0025226A /* button_bg.png */; };
+		83CCE643190C2AF200CB18FF /* mj.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 83CCE642190C2AF200CB18FF /* mj.jpg */; };
+		83CCE645190C2C4D00CB18FF /* mask.png in Resources */ = {isa = PBXBuildFile; fileRef = 83CCE644190C2C4D00CB18FF /* mask.png */; };
 		83E0F1DD18F9A2DF00EF6568 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 83E0F1DC18F9A2DF00EF6568 /* Foundation.framework */; };
 		83E0F1DF18F9A2DF00EF6568 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 83E0F1DE18F9A2DF00EF6568 /* CoreGraphics.framework */; };
 		83E0F1E118F9A2DF00EF6568 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 83E0F1E018F9A2DF00EF6568 /* UIKit.framework */; };
@@ -21,6 +56,7 @@
 		83E0F1FE18F9A2DF00EF6568 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 83E0F1E018F9A2DF00EF6568 /* UIKit.framework */; };
 		83E0F20618F9A2DF00EF6568 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 83E0F20418F9A2DF00EF6568 /* InfoPlist.strings */; };
 		83E0F20818F9A2DF00EF6568 /* trollboxTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 83E0F20718F9A2DF00EF6568 /* trollboxTests.m */; };
+		B8C4924A48A947D484DC42B3 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A86F1AD66D84E49BBC4541A /* libPods.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +70,48 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0493154A5B42494288A23E5F /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = "<group>"; };
+		5A86F1AD66D84E49BBC4541A /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		831241EA18F9A9AB000C65FB /* ChatMessage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChatMessage.h; sourceTree = "<group>"; };
+		831241EB18F9A9AB000C65FB /* ChatMessage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ChatMessage.m; sourceTree = "<group>"; };
+		831241ED18F9BFB9000C65FB /* TickerData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TickerData.h; sourceTree = "<group>"; };
+		831241EE18F9BFB9000C65FB /* TickerData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TickerData.m; sourceTree = "<group>"; };
+		831241F318F9CC94000C65FB /* TickerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TickerView.h; sourceTree = "<group>"; };
+		831241F418F9CC94000C65FB /* TickerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TickerView.m; sourceTree = "<group>"; };
+		831241F818FA2905000C65FB /* GTMNSString+HTML.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "GTMNSString+HTML.h"; sourceTree = "<group>"; };
+		831241F918FA2905000C65FB /* GTMNSString+HTML.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "GTMNSString+HTML.m"; sourceTree = "<group>"; };
+		831241FB18FA293C000C65FB /* GTMDefines.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GTMDefines.h; sourceTree = "<group>"; };
+		8333717F18FCCA3F0032B8FA /* Icon-60.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-60.png"; sourceTree = "<group>"; };
+		8333718018FCCA3F0032B8FA /* Icon-60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-60@2x.png"; sourceTree = "<group>"; };
+		8333718118FCCA3F0032B8FA /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72.png"; sourceTree = "<group>"; };
+		8333718218FCCA3F0032B8FA /* Icon-72@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72@2x.png"; sourceTree = "<group>"; };
+		8333718318FCCA3F0032B8FA /* Icon-76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-76.png"; sourceTree = "<group>"; };
+		8333718418FCCA3F0032B8FA /* Icon-76@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-76@2x.png"; sourceTree = "<group>"; };
+		8333718518FCCA3F0032B8FA /* Icon-Small-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small-50.png"; sourceTree = "<group>"; };
+		8333718618FCCA3F0032B8FA /* Icon-Small-50@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small-50@2x.png"; sourceTree = "<group>"; };
+		8333718718FCCA3F0032B8FA /* Icon-Small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small.png"; sourceTree = "<group>"; };
+		8333718818FCCA3F0032B8FA /* Icon-Small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small@2x.png"; sourceTree = "<group>"; };
+		8333718918FCCA3F0032B8FA /* Icon-Spotlight-40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Spotlight-40.png"; sourceTree = "<group>"; };
+		8333718A18FCCA3F0032B8FA /* Icon-Spotlight-40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Spotlight-40@2x.png"; sourceTree = "<group>"; };
+		8333718B18FCCA3F0032B8FA /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		8333718C18FCCA3F0032B8FA /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
+		8333719B18FCCB060032B8FA /* launch-960h.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "launch-960h.png"; sourceTree = "<group>"; };
+		8333719C18FCCB060032B8FA /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		8333719F18FCCBFC0032B8FA /* chicken_white.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = chicken_white.png; sourceTree = "<group>"; };
+		833371A118FCCDF90032B8FA /* Default-568h.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h.png"; sourceTree = "<group>"; };
+		8374516818F9A62A00E3F8A1 /* libicucore.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libicucore.dylib; path = usr/lib/libicucore.dylib; sourceTree = SDKROOT; };
+		8374516A18F9A62F00E3F8A1 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
+		8374516C18F9A63300E3F8A1 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
+		83BD079618FCC97B00573A2F /* trollbox_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = trollbox_logo.png; sourceTree = "<group>"; };
+		83C081BD19022A390025226A /* checkmark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = checkmark.png; sourceTree = "<group>"; };
+		83C081BF19022DEB0025226A /* Settings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Settings.bundle; sourceTree = "<group>"; };
+		83C081C1190232980025226A /* checkmark_white.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = checkmark_white.png; sourceTree = "<group>"; };
+		83C081C919025F3C0025226A /* flag_china.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flag_china.png; sourceTree = "<group>"; };
+		83C081CA19025F3C0025226A /* flag_english.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flag_english.png; sourceTree = "<group>"; };
+		83C081CB19025F3C0025226A /* flag_russia.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flag_russia.png; sourceTree = "<group>"; };
+		83C081CF1902D25C0025226A /* button_bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button_bg.png; sourceTree = "<group>"; };
+		83CCE642190C2AF200CB18FF /* mj.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mj.jpg; sourceTree = "<group>"; };
+		83CCE644190C2C4D00CB18FF /* mask.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mask.png; sourceTree = "<group>"; };
 		83E0F1D918F9A2DF00EF6568 /* trollbox.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = trollbox.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		83E0F1DC18F9A2DF00EF6568 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		83E0F1DE18F9A2DF00EF6568 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -60,9 +138,13 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				83E0F1DD18F9A2DF00EF6568 /* Foundation.framework in Frameworks */,
+				8374516D18F9A63400E3F8A1 /* Security.framework in Frameworks */,
+				8374516B18F9A62F00E3F8A1 /* CFNetwork.framework in Frameworks */,
+				8374516918F9A62A00E3F8A1 /* libicucore.dylib in Frameworks */,
 				83E0F1DF18F9A2DF00EF6568 /* CoreGraphics.framework in Frameworks */,
 				83E0F1E118F9A2DF00EF6568 /* UIKit.framework in Frameworks */,
-				83E0F1DD18F9A2DF00EF6568 /* Foundation.framework in Frameworks */,
+				B8C4924A48A947D484DC42B3 /* libPods.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -79,13 +161,59 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		831241FC18FA6A8C000C65FB /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				83CCE644190C2C4D00CB18FF /* mask.png */,
+				83CCE642190C2AF200CB18FF /* mj.jpg */,
+				83C081CF1902D25C0025226A /* button_bg.png */,
+				83C081C919025F3C0025226A /* flag_china.png */,
+				83C081CA19025F3C0025226A /* flag_english.png */,
+				83C081CB19025F3C0025226A /* flag_russia.png */,
+				83C081C1190232980025226A /* checkmark_white.png */,
+				83C081BD19022A390025226A /* checkmark.png */,
+				833371A118FCCDF90032B8FA /* Default-568h.png */,
+				8333719F18FCCBFC0032B8FA /* chicken_white.png */,
+				8333719B18FCCB060032B8FA /* launch-960h.png */,
+				8333719C18FCCB060032B8FA /* Default-568h@2x.png */,
+				8333717F18FCCA3F0032B8FA /* Icon-60.png */,
+				8333718018FCCA3F0032B8FA /* Icon-60@2x.png */,
+				8333718118FCCA3F0032B8FA /* Icon-72.png */,
+				8333718218FCCA3F0032B8FA /* Icon-72@2x.png */,
+				8333718318FCCA3F0032B8FA /* Icon-76.png */,
+				8333718418FCCA3F0032B8FA /* Icon-76@2x.png */,
+				8333718518FCCA3F0032B8FA /* Icon-Small-50.png */,
+				8333718618FCCA3F0032B8FA /* Icon-Small-50@2x.png */,
+				8333718718FCCA3F0032B8FA /* Icon-Small.png */,
+				8333718818FCCA3F0032B8FA /* Icon-Small@2x.png */,
+				8333718918FCCA3F0032B8FA /* Icon-Spotlight-40.png */,
+				8333718A18FCCA3F0032B8FA /* Icon-Spotlight-40@2x.png */,
+				8333718B18FCCA3F0032B8FA /* Icon.png */,
+				8333718C18FCCA3F0032B8FA /* Icon@2x.png */,
+				83BD079618FCC97B00573A2F /* trollbox_logo.png */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		83CCE5F7190C246100CB18FF /* Vendor */ = {
+			isa = PBXGroup;
+			children = (
+				831241FB18FA293C000C65FB /* GTMDefines.h */,
+				831241F818FA2905000C65FB /* GTMNSString+HTML.h */,
+				831241F918FA2905000C65FB /* GTMNSString+HTML.m */,
+			);
+			name = Vendor;
+			sourceTree = "<group>";
+		};
 		83E0F1D018F9A2DF00EF6568 = {
 			isa = PBXGroup;
 			children = (
+				83C081BF19022DEB0025226A /* Settings.bundle */,
 				83E0F1E218F9A2DF00EF6568 /* trollbox */,
 				83E0F20118F9A2DF00EF6568 /* trollboxTests */,
 				83E0F1DB18F9A2DF00EF6568 /* Frameworks */,
 				83E0F1DA18F9A2DF00EF6568 /* Products */,
+				0493154A5B42494288A23E5F /* Pods.xcconfig */,
 			);
 			sourceTree = "<group>";
 		};
@@ -101,10 +229,14 @@
 		83E0F1DB18F9A2DF00EF6568 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				8374516C18F9A63300E3F8A1 /* Security.framework */,
+				8374516A18F9A62F00E3F8A1 /* CFNetwork.framework */,
+				8374516818F9A62A00E3F8A1 /* libicucore.dylib */,
 				83E0F1DC18F9A2DF00EF6568 /* Foundation.framework */,
 				83E0F1DE18F9A2DF00EF6568 /* CoreGraphics.framework */,
 				83E0F1E018F9A2DF00EF6568 /* UIKit.framework */,
 				83E0F1FB18F9A2DF00EF6568 /* XCTest.framework */,
+				5A86F1AD66D84E49BBC4541A /* libPods.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -112,6 +244,8 @@
 		83E0F1E218F9A2DF00EF6568 /* trollbox */ = {
 			isa = PBXGroup;
 			children = (
+				83CCE5F7190C246100CB18FF /* Vendor */,
+				831241FC18FA6A8C000C65FB /* Resources */,
 				83E0F1EB18F9A2DF00EF6568 /* AppDelegate.h */,
 				83E0F1EC18F9A2DF00EF6568 /* AppDelegate.m */,
 				83E0F1EE18F9A2DF00EF6568 /* Main.storyboard */,
@@ -119,6 +253,12 @@
 				83E0F1F218F9A2DF00EF6568 /* ViewController.m */,
 				83E0F1F418F9A2DF00EF6568 /* Images.xcassets */,
 				83E0F1E318F9A2DF00EF6568 /* Supporting Files */,
+				831241EA18F9A9AB000C65FB /* ChatMessage.h */,
+				831241EB18F9A9AB000C65FB /* ChatMessage.m */,
+				831241ED18F9BFB9000C65FB /* TickerData.h */,
+				831241EE18F9BFB9000C65FB /* TickerData.m */,
+				831241F318F9CC94000C65FB /* TickerView.h */,
+				831241F418F9CC94000C65FB /* TickerView.m */,
 			);
 			path = trollbox;
 			sourceTree = "<group>";
@@ -159,9 +299,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 83E0F20B18F9A2DF00EF6568 /* Build configuration list for PBXNativeTarget "trollbox" */;
 			buildPhases = (
+				653C6C630E22455091DE04F8 /* Check Pods Manifest.lock */,
 				83E0F1D518F9A2DF00EF6568 /* Sources */,
 				83E0F1D618F9A2DF00EF6568 /* Frameworks */,
 				83E0F1D718F9A2DF00EF6568 /* Resources */,
+				A421C764E83E4CBA9B18FC09 /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -199,6 +341,9 @@
 				LastUpgradeCheck = 0510;
 				ORGANIZATIONNAME = "Chris Rebel";
 				TargetAttributes = {
+					83E0F1D818F9A2DF00EF6568 = {
+						DevelopmentTeam = 546GKG82MZ;
+					};
 					83E0F1F918F9A2DF00EF6568 = {
 						TestTargetID = 83E0F1D818F9A2DF00EF6568;
 					};
@@ -228,9 +373,37 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				83CCE643190C2AF200CB18FF /* mj.jpg in Resources */,
+				833371A218FCCDF90032B8FA /* Default-568h.png in Resources */,
+				8333719918FCCA3F0032B8FA /* Icon.png in Resources */,
+				8333719A18FCCA3F0032B8FA /* Icon@2x.png in Resources */,
+				83C081D01902D25C0025226A /* button_bg.png in Resources */,
+				8333719718FCCA3F0032B8FA /* Icon-Spotlight-40.png in Resources */,
+				8333718D18FCCA3F0032B8FA /* Icon-60.png in Resources */,
+				833371A018FCCBFC0032B8FA /* chicken_white.png in Resources */,
 				83E0F1F518F9A2DF00EF6568 /* Images.xcassets in Resources */,
+				8333719318FCCA3F0032B8FA /* Icon-Small-50.png in Resources */,
+				83CCE645190C2C4D00CB18FF /* mask.png in Resources */,
+				8333719518FCCA3F0032B8FA /* Icon-Small.png in Resources */,
+				8333719018FCCA3F0032B8FA /* Icon-72@2x.png in Resources */,
 				83E0F1E718F9A2DF00EF6568 /* InfoPlist.strings in Resources */,
+				83BD079718FCC97B00573A2F /* trollbox_logo.png in Resources */,
+				8333719418FCCA3F0032B8FA /* Icon-Small-50@2x.png in Resources */,
+				83C081CC19025F3C0025226A /* flag_china.png in Resources */,
+				83C081BE19022A390025226A /* checkmark.png in Resources */,
 				83E0F1F018F9A2DF00EF6568 /* Main.storyboard in Resources */,
+				8333719D18FCCB060032B8FA /* launch-960h.png in Resources */,
+				83C081C019022DEB0025226A /* Settings.bundle in Resources */,
+				83C081C2190232980025226A /* checkmark_white.png in Resources */,
+				8333719E18FCCB060032B8FA /* Default-568h@2x.png in Resources */,
+				8333719818FCCA3F0032B8FA /* Icon-Spotlight-40@2x.png in Resources */,
+				8333718F18FCCA3F0032B8FA /* Icon-72.png in Resources */,
+				83C081CE19025F3C0025226A /* flag_russia.png in Resources */,
+				8333718E18FCCA3F0032B8FA /* Icon-60@2x.png in Resources */,
+				8333719218FCCA3F0032B8FA /* Icon-76@2x.png in Resources */,
+				83C081CD19025F3C0025226A /* flag_english.png in Resources */,
+				8333719118FCCA3F0032B8FA /* Icon-76.png in Resources */,
+				8333719618FCCA3F0032B8FA /* Icon-Small@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -244,6 +417,39 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		653C6C630E22455091DE04F8 /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		A421C764E83E4CBA9B18FC09 /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Pods-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		83E0F1D518F9A2DF00EF6568 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
@@ -251,7 +457,11 @@
 			files = (
 				83E0F1F318F9A2DF00EF6568 /* ViewController.m in Sources */,
 				83E0F1ED18F9A2DF00EF6568 /* AppDelegate.m in Sources */,
+				831241EF18F9BFB9000C65FB /* TickerData.m in Sources */,
 				83E0F1E918F9A2DF00EF6568 /* main.m in Sources */,
+				831241EC18F9A9AB000C65FB /* ChatMessage.m in Sources */,
+				831241F518F9CC94000C65FB /* TickerView.m in Sources */,
+				831241FA18FA2905000C65FB /* GTMNSString+HTML.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -373,26 +583,30 @@
 		};
 		83E0F20C18F9A2DF00EF6568 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0493154A5B42494288A23E5F /* Pods.xcconfig */;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "trollbox/trollbox-Prefix.pch";
 				INFOPLIST_FILE = "trollbox/trollbox-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
 		};
 		83E0F20D18F9A2DF00EF6568 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0493154A5B42494288A23E5F /* Pods.xcconfig */;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "trollbox/trollbox-Prefix.pch";
 				INFOPLIST_FILE = "trollbox/trollbox-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "44687263-A7FC-4471-A4F1-96F2F276E525";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -456,6 +670,7 @@
 				83E0F20D18F9A2DF00EF6568 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		83E0F20E18F9A2DF00EF6568 /* Build configuration list for PBXNativeTarget "trollboxTests" */ = {
 			isa = XCConfigurationList;
@@ -464,6 +679,7 @@
 				83E0F21018F9A2DF00EF6568 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
